@@ -1,0 +1,429 @@
+ID,CustomerID,EmployeeID,ShipName,ShipCountry,OrderID,Freight,Qty
+0,ALFKI,1,Alfred's Futterkiste,Germany,10835,69.53,10.1
+1,ALFKI,3,Alfred's Futterkiste,Germany,11011,1.21,10.1
+2,ALFKI,4,Alfred's Futterkiste,Germany,10692,61.02,10.1
+3,ALFKI,6,Alfreds Futterkiste,Germany,10643,29.46,10.1
+4,ANATR,3,Ana Trujillo Emparedados y helados,Mexico,10625,43.9,10.1
+5,ANATR,4,Ana Trujillo Emparedados y helados,Mexico,10926,39.92,10.1
+6,ANATR,7,Ana Trujillo Emparedados y helados,Mexico,10308,1.61,10.1
+7,ANTON,1,Antonio Moreno Taquería,Mexico,10677,4.03,10.1
+8,ANTON,3,Antonio Moreno Taquería,Mexico,10365,22.0,10.1
+9,ANTON,4,Antonio Moreno Taquería,Mexico,10535,15.64,10.1
+10,ANTON,7,Antonio Moreno Taquería,Mexico,10507,47.45,10.1
+11,BERGS,1,Berglunds snabbköp,Sweden,10524,244.79,10.1
+12,BERGS,2,Berglunds snabbköp,Sweden,10280,8.98,10.1
+13,BERGS,3,Berglunds snabbköp,Sweden,10384,168.64,10.1
+14,BERGS,4,Berglunds snabbköp,Sweden,10875,32.37,10.1
+15,BERGS,5,Berglunds snabbköp,Sweden,10654,55.26,10.1
+16,BERGS,8,Berglunds snabbköp,Sweden,10278,92.69,10.1
+17,BERGS,9,Berglunds snabbköp,Sweden,10672,95.75,10.1
+18,BLAUS,3,Blauer See Delikatessen,Germany,10582,27.71,10.1
+19,BLAUS,4,Blauer See Delikatessen,Germany,10509,0.15,10.1
+20,BLAUS,6,Blauer See Delikatessen,Germany,10956,44.65,10.1
+21,BLAUS,8,Blauer See Delikatessen,Germany,10614,1.93,10.1
+22,BLAUS,9,Blauer See Delikatessen,Germany,10501,8.85,10.1
+23,BLONP,2,Blondel père et fils,France,10265,55.28,10.1
+24,BLONP,3,Blondel père et fils,France,10436,156.66,10.1
+25,BLONP,4,Blondel père et fils,France,10360,131.7,10.1
+26,BLONP,5,Blondel père et fils,France,10297,5.74,10.1
+27,BLONP,6,Blondel père et fils,France,10559,8.05,10.1
+28,BLONP,8,Blondel père et fils,France,10679,27.94,10.1
+29,BLONP,9,Blondel père et fils,France,10566,88.4,10.1
+30,BOLID,4,Bólido Comidas preparadas,Spain,10326,77.92,10.1
+31,BOLID,9,Bólido Comidas preparadas,Spain,10970,16.16,10.1
+32,BONAP,1,Bon app',France,10340,166.31,10.1
+33,BONAP,2,Bon app',France,10663,113.15,10.1
+34,BONAP,3,Bon app',France,10362,96.04,10.1
+35,BONAP,4,Bon app',France,10470,64.56,10.1
+36,BONAP,5,Bon app',France,10730,20.12,10.1
+37,BONAP,7,Bon app',France,10876,60.42,10.1
+38,BONAP,8,Bon app',France,10932,134.64,10.1
+39,BONAP,9,Bon app',France,10331,10.19,10.1
+40,BOTTM,1,Bottom-Dollar Markets,Canada,10975,32.27,10.1
+41,BOTTM,2,Bottom-Dollar Markets,Canada,10949,74.44,10.1
+42,BOTTM,3,Bottom-Dollar Markets,Canada,10410,2.4,10.1
+43,BOTTM,4,Bottom-Dollar Markets,Canada,10389,47.42,10.1
+44,BOTTM,6,Bottom-Dollar Markets,Canada,10944,52.92,10.1
+45,BOTTM,7,Bottom-Dollar Markets,Canada,11048,24.12,10.1
+46,BOTTM,9,Bottom-Dollar Markets,Canada,10411,23.65,10.1
+47,CACTU,2,Cactus Comidas para llevar,Argentina,10819,19.76,10.1
+48,CACTU,4,Cactus Comidas para llevar,Argentina,10881,2.84,10.1
+49,CACTU,7,Cactus Comidas para llevar,Argentina,10937,31.51,10.1
+50,CACTU,8,Cactus Comidas para llevar,Argentina,10521,17.22,10.1
+51,CACTU,9,Cactus Comidas para llevar,Argentina,10782,1.1,10.1
+52,CENTC,4,Centro comercial Moctezuma,Mexico,10259,3.25,10.1
+53,CHOPS,1,Chop-suey Chinese,Switzerland,10746,31.43,10.1
+54,CHOPS,3,Chop-suey Chinese,Switzerland,11041,48.22,10.1
+55,CHOPS,4,Chop-suey Chinese,Switzerland,10966,27.19,10.1
+56,CHOPS,5,Chop-suey Chinese,Switzerland,10254,22.98,10.1
+57,CHOPS,6,Chop-suey Chinese,Switzerland,10370,1.17,10.1
+58,CHOPS,7,Chop-suey Chinese,Switzerland,10731,96.65,10.1
+59,COMMI,1,Comércio Mineiro,Brazil,10969,0.21,10.1
+60,COMMI,2,Comércio Mineiro,Brazil,11042,29.99,10.1
+61,COMMI,4,Comércio Mineiro,Brazil,10466,11.93,10.1
+62,COMMI,8,Comércio Mineiro,Brazil,10290,79.7,10.1
+63,DRACD,1,Drachenblut Delikatessen,Germany,10825,79.25,10.1
+64,DRACD,3,Drachenblut Delikatessen,Germany,10391,5.45,10.1
+65,DRACD,4,Drachenblut Delikatessen,Germany,10363,30.54,10.1
+66,DRACD,7,Drachenblut Delikatessen,Germany,10797,33.35,10.1
+67,DRACD,8,Drachenblut Delikatessen,Germany,11036,149.47,10.1
+68,DUMON,1,Du monde entier,France,10311,24.69,10.1
+69,DUMON,2,Du monde entier,France,10683,4.4,10.1
+70,DUMON,7,Du monde entier,France,10609,1.85,10.1
+71,ERNSH,1,Ernst Handel,Austria,10258,140.51,10.1
+72,ERNSH,2,Ernst Handel,Austria,10368,101.95,10.1
+73,ERNSH,3,Ernst Handel,Austria,10442,47.94,10.1
+74,ERNSH,4,Ernst Handel,Austria,10382,94.77,10.1
+75,ERNSH,6,Ernst Handel,Austria,10390,126.38,10.1
+76,ERNSH,7,Ernst Handel,Austria,10633,477.9,10.1
+77,ERNSH,8,Ernst Handel,Austria,10402,67.88,10.1
+78,ERNSH,9,Ernst Handel,Austria,10263,146.06,10.1
+79,FAMIA,2,Familia Arquibaldo,Brazil,10414,21.48,10.1
+80,FAMIA,3,Familia Arquibaldo,Brazil,10581,3.01,10.1
+81,FAMIA,4,Familia Arquibaldo,Brazil,10347,3.1,10.1
+82,FAMIA,5,Familia Arquibaldo,Brazil,10650,176.81,10.1
+83,FAMIA,7,Familia Arquibaldo,Brazil,10512,3.53,10.1
+84,FAMIA,9,Familia Arquibaldo,Brazil,10386,13.99,10.1
+85,FOLIG,1,Folies gourmandes,France,10789,100.6,10.1
+86,FOLIG,3,Folies gourmandes,France,10763,37.35,10.1
+87,FOLIG,4,Folies gourmandes,France,10634,487.38,10.1
+88,FOLIG,6,Folies gourmandes,France,10480,1.35,10.1
+89,FOLIG,8,Folies gourmandes,France,10408,11.26,10.1
+90,FOLKO,1,Folk och fä HB,Sweden,10902,44.15,10.1
+91,FOLKO,2,Folk och fä HB,Sweden,10327,63.36,10.1
+92,FOLKO,3,Folk och fä HB,Sweden,10434,17.92,10.1
+93,FOLKO,4,Folk och fä HB,Sweden,10774,48.2,10.1
+94,FOLKO,5,Folk och fä HB,Sweden,10378,5.44,10.1
+95,FOLKO,6,Folk och fä HB,Sweden,10264,3.67,10.1
+96,FOLKO,7,Folk och fä HB,Sweden,10880,88.01,10.1
+97,FOLKO,8,Folk och fä HB,Sweden,10460,16.27,10.1
+98,FRANK,1,Frankenversand,Germany,10396,135.35,10.1
+99,FRANK,4,Frankenversand,Germany,10267,208.58,10.1
+100,FRANK,5,Frankenversand,Germany,10675,31.85,10.1
+101,FRANK,6,Frankenversand,Germany,10791,16.85,10.1
+102,FRANK,8,Frankenversand,Germany,10488,4.93,10.1
+103,FRANR,1,France restauration,France,10671,30.34,10.1
+104,FRANR,2,France restauration,France,10971,121.82,10.1
+105,FRANR,3,France restauration,France,10860,19.26,10.1
+106,FRANS,1,Franchi S.p.A.,Italy,10710,4.98,10.1
+107,FRANS,2,Franchi S.p.A.,Italy,10422,3.02,10.1
+108,FRANS,3,Franchi S.p.A.,Italy,10753,7.7,10.1
+109,FRANS,4,Franchi S.p.A.,Italy,10807,1.36,10.1
+110,FURIB,1,Furia Bacalhau e Frutos do Mar,Portugal,10604,7.46,10.1
+111,FURIB,3,Furia Bacalhau e Frutos do Mar,Portugal,10352,1.3,10.1
+112,FURIB,4,Furia Bacalhau e Frutos do Mar,Portugal,10328,87.03,10.1
+113,FURIB,8,Furia Bacalhau e Frutos do Mar,Portugal,10491,16.96,10.1
+114,FURIB,9,Furia Bacalhau e Frutos do Mar,Portugal,10963,2.7,10.1
+115,GALED,1,Galería del gastronómo,Spain,10928,1.36,10.1
+116,GALED,3,Galería del gastronómo,Spain,10568,6.54,10.1
+117,GALED,4,Galería del gastronómo,Spain,10426,18.69,10.1
+118,GALED,8,Galería del gastronómo,Spain,10366,10.14,10.1
+119,GODOS,1,Godos Cocina Típica,Spain,10888,51.87,10.1
+120,GODOS,2,Godos Cocina Típica,Spain,11009,59.11,10.1
+121,GODOS,3,Godos Cocina Típica,Spain,10911,38.19,10.1
+122,GODOS,4,Godos Cocina Típica,Spain,10629,85.46,10.1
+123,GODOS,5,Godos Cocina Típica,Spain,10872,175.32,10.1
+124,GODOS,7,Godos Cocina Típica,Spain,10303,107.83,10.1
+125,GOURL,1,Gourmet Lanchonetes,Brazil,10709,210.8,10.1
+126,GOURL,2,Gourmet Lanchonetes,Brazil,10734,1.63,10.1
+127,GOURL,3,Gourmet Lanchonetes,Brazil,11049,8.34,10.1
+128,GOURL,4,Gourmet Lanchonetes,Brazil,10652,7.14,10.1
+129,GOURL,6,Gourmet Lanchonetes,Brazil,10423,24.5,10.1
+130,GOURL,7,Gourmet Lanchonetes,Brazil,10777,3.01,10.1
+131,GREAL,1,Great Lakes Food Market,USA,10616,116.53,10.1
+132,GREAL,3,Great Lakes Food Market,USA,10681,76.13,10.1
+133,GREAL,4,Great Lakes Food Market,USA,10617,18.53,10.1
+134,GREAL,6,Great Lakes Food Market,USA,10528,3.35,10.1
+135,GREAL,8,Great Lakes Food Market,USA,10589,4.42,10.1
+136,GROSR,1,GROSELLA-Restaurante,Venezuela,10785,1.51,10.1
+137,GROSR,8,GROSELLA-Restaurante,Venezuela,10268,66.29,10.1
+138,HANAR,1,Hanari Carnes,Brazil,10690,15.8,10.1
+139,HANAR,2,Hanari Carnes,Brazil,10541,68.65,10.1
+140,HANAR,3,Hanari Carnes,Brazil,10253,58.17,10.1
+141,HANAR,4,Hanari Carnes,Brazil,10250,65.83,10.1
+142,HANAR,5,Hanari Carnes,Brazil,10922,62.74,10.1
+143,HANAR,8,Hanari Carnes,Brazil,10770,5.32,10.1
+144,HANAR,9,Hanari Carnes,Brazil,11022,6.27,10.1
+145,HILAA,1,HILARIÓN-Abastos,Venezuela,10486,30.53,10.1
+146,HILAA,2,HILARIÓN-Abastos,Venezuela,10552,83.22,10.1
+147,HILAA,3,HILARIÓN-Abastos,Venezuela,10796,26.52,10.1
+148,HILAA,4,HILARIÓN-Abastos,Venezuela,10257,81.91,10.1
+149,HILAA,6,HILARIÓN-Abastos,Venezuela,10395,184.41,10.1
+150,HILAA,7,HILARIÓN-Abastos,Venezuela,10490,210.19,10.1
+151,HILAA,8,HILARIÓN-Abastos,Venezuela,10476,4.41,10.1
+152,HILAA,9,HILARIÓN-Abastos,Venezuela,10705,3.52,10.1
+153,HUNGC,1,Hungry Coyote Import Store,USA,10394,30.34,10.1
+154,HUNGC,3,Hungry Coyote Import Store,USA,10375,20.12,10.1
+155,HUNGC,4,Hungry Coyote Import Store,USA,10600,45.13,10.1
+156,HUNGC,8,Hungry Coyote Import Store,USA,10660,111.29,10.1
+157,HUNGO,1,Hungry Owl All-Night Grocers,Ireland,10567,33.97,10.1
+158,HUNGO,2,Hungry Owl All-Night Grocers,Ireland,10516,62.78,10.1
+159,HUNGO,3,Hungry Owl All-Night Grocers,Ireland,10309,47.3,10.1
+160,HUNGO,4,Hungry Owl All-Night Grocers,Ireland,10373,124.12,10.1
+161,HUNGO,6,Hungry Owl All-Night Grocers,Ireland,10298,168.22,10.1
+162,HUNGO,7,Hungry Owl All-Night Grocers,Ireland,10335,42.11,10.1
+163,HUNGO,8,Hungry Owl All-Night Grocers,Ireland,10380,35.03,10.1
+164,HUNGO,9,Hungry Owl All-Night Grocers,Ireland,10646,142.33,10.1
+165,KOENE,1,Königlich Essen,Germany,10325,64.86,10.1
+166,KOENE,2,Königlich Essen,Germany,10457,11.57,10.1
+167,KOENE,3,Königlich Essen,Germany,10468,44.12,10.1
+168,KOENE,4,Königlich Essen,Germany,10323,4.88,10.1
+169,KOENE,8,Königlich Essen,Germany,10456,8.12,10.1
+170,KOENE,9,Königlich Essen,Germany,10506,21.19,10.1
+171,LACOR,2,La corne d'abondance,France,10858,52.51,10.1
+172,LACOR,4,La corne d'abondance,France,10927,19.79,10.1
+173,LACOR,6,La corne d'abondance,France,10973,15.17,10.1
+174,LAMAI,1,La maison d'Asie,France,10371,0.45,10.1
+175,LAMAI,2,La maison d'Asie,France,10787,249.93,10.1
+176,LAMAI,3,La maison d'Asie,France,10413,95.66,10.1
+177,LAMAI,4,La maison d'Asie,France,10454,2.74,10.1
+178,LAMAI,5,La maison d'Asie,France,10358,19.64,10.1
+179,LAMAI,6,La maison d'Asie,France,10350,64.19,10.1
+180,LAMAI,7,La maison d'Asie,France,10923,68.26,10.1
+181,LAMAI,8,La maison d'Asie,France,10610,26.78,10.1
+182,LAUGB,2,Laughing Bacchus Wine Cellars,Canada,10620,0.94,10.1
+183,LAUGB,3,Laughing Bacchus Wine Cellars,Canada,10495,4.65,10.1
+184,LAZYK,1,Lazy K Kountry Store,USA,10482,7.48,10.1
+185,LAZYK,8,Lazy K Kountry Store,USA,10545,11.92,10.1
+186,LEHMS,2,Lehmanns Marktstand,Germany,11070,136.0,10.1
+187,LEHMS,3,Lehmanns Marktstand,Germany,10536,58.88,10.1
+188,LEHMS,4,Lehmanns Marktstand,Germany,10284,76.56,10.1
+189,LEHMS,7,Lehmanns Marktstand,Germany,10497,36.21,10.1
+190,LEHMS,8,Lehmanns Marktstand,Germany,10279,25.83,10.1
+191,LEHMS,9,Lehmanns Marktstand,Germany,10557,96.72,10.1
+192,LETSS,1,Let's Stop N Shop,USA,10579,13.73,10.1
+193,LETSS,4,Let's Stop N Shop,USA,10884,90.97,10.1
+194,LETSS,6,Let's Stop N Shop,USA,10735,45.97,10.1
+195,LETSS,8,Let's Stop N Shop,USA,10719,51.44,10.1
+196,LILAS,1,LILA-Supermercado,Venezuela,10357,34.88,10.1
+197,LILAS,2,LILA-Supermercado,Venezuela,10780,42.13,10.1
+198,LILAS,3,LILA-Supermercado,Venezuela,10283,84.81,10.1
+199,LILAS,4,LILA-Supermercado,Venezuela,10499,102.02,10.1
+200,LILAS,5,LILA-Supermercado,Venezuela,10823,163.97,10.1
+201,LILAS,6,LILA-Supermercado,Venezuela,10296,0.12,10.1
+202,LILAS,8,LILA-Supermercado,Venezuela,10543,48.17,10.1
+203,LINOD,1,LINO-Delicateses,Venezuela,10405,34.82,10.1
+204,LINOD,2,LINO-Delicateses,Venezuela,10919,19.8,10.1
+205,LINOD,3,LINO-Delicateses,Venezuela,10638,158.44,10.1
+206,LINOD,4,LINO-Delicateses,Venezuela,10485,64.45,10.1
+207,LINOD,5,LINO-Delicateses,Venezuela,10954,27.91,10.1
+208,LINOD,8,LINO-Delicateses,Venezuela,10729,141.06,10.1
+209,LONEP,1,Lonesome Pine Restaurant,USA,10665,26.31,10.1
+210,LONEP,2,Lonesome Pine Restaurant,USA,10307,0.56,10.1
+211,LONEP,3,Lonesome Pine Restaurant,USA,10662,1.28,10.1
+212,LONEP,4,Lonesome Pine Restaurant,USA,10544,24.91,10.1
+213,LONEP,6,Lonesome Pine Restaurant,USA,10317,12.69,10.1
+214,LONEP,8,Lonesome Pine Restaurant,USA,10883,0.53,10.1
+215,MAGAA,1,Magazzini Alimentari Riuniti,Italy,10275,26.93,10.1
+216,MAGAA,2,Magazzini Alimentari Riuniti,Italy,10300,17.68,10.1
+217,MAGAA,4,Magazzini Alimentari Riuniti,Italy,10784,70.09,10.1
+218,MAGAA,6,Magazzini Alimentari Riuniti,Italy,10754,2.38,10.1
+219,MAGAA,7,Magazzini Alimentari Riuniti,Italy,10818,65.48,10.1
+220,MAGAA,8,Magazzini Alimentari Riuniti,Italy,10467,4.93,10.1
+221,MAISD,3,Maison Dewey,Belgium,11004,44.84,10.1
+222,MAISD,4,Maison Dewey,Belgium,10760,155.64,10.1
+223,MAISD,5,Maison Dewey,Belgium,10529,66.69,10.1
+224,MAISD,7,Maison Dewey,Belgium,10896,32.45,10.1
+225,MAISD,9,Maison Dewey,Belgium,10978,32.82,10.1
+226,MEREP,1,Mère Paillarde,Canada,10376,20.39,10.1
+227,MEREP,2,Mère Paillarde,Canada,10339,15.66,10.1
+228,MEREP,3,Mère Paillarde,Canada,10332,52.84,10.1
+229,MEREP,4,Mère Paillarde,Canada,10590,44.77,10.1
+230,MEREP,6,Mère Paillarde,Canada,10439,4.07,10.1
+231,MEREP,7,Mère Paillarde,Canada,10424,370.61,10.1
+232,MEREP,8,Mère Paillarde,Canada,10565,7.15,10.1
+233,MORGK,2,Morgenstern Gesundkost,Germany,10277,125.77,10.1
+234,MORGK,3,Morgenstern Gesundkost,Germany,10699,0.58,10.1
+235,MORGK,4,Morgenstern Gesundkost,Germany,10945,10.22,10.1
+236,MORGK,5,Morgenstern Gesundkost,Germany,10575,127.34,10.1
+237,OCEAN,3,Océano Atlántico Ltda.,Argentina,10409,29.83,10.1
+238,OCEAN,4,Océano Atlántico Ltda.,Argentina,10898,1.27,10.1
+239,OCEAN,7,Océano Atlántico Ltda.,Argentina,10531,8.12,10.1
+240,OCEAN,8,Océano Atlántico Ltda.,Argentina,10986,217.86,10.1
+241,OLDWO,1,Old World Delicatessen,USA,10680,26.61,10.1
+242,OLDWO,2,Old World Delicatessen,USA,10808,45.53,10.1
+243,OLDWO,3,Old World Delicatessen,USA,10441,73.02,10.1
+244,OLDWO,4,Old World Delicatessen,USA,10338,84.21,10.1
+245,OLDWO,6,Old World Delicatessen,USA,10965,144.38,10.1
+246,OLDWO,8,Old World Delicatessen,USA,10305,257.62,10.1
+247,OTTIK,1,Ottilies Käseladen,Germany,10508,4.99,10.1
+248,OTTIK,2,Ottilies Käseladen,Germany,10407,91.48,10.1
+249,OTTIK,3,Ottilies Käseladen,Germany,10684,145.63,10.1
+250,OTTIK,4,Ottilies Käseladen,Germany,10260,55.09,10.1
+251,OTTIK,6,Ottilies Käseladen,Germany,10833,71.49,10.1
+252,PERIC,1,Pericles Comidas clásicas,Mexico,10995,46.0,10.1
+253,PERIC,2,Pericles Comidas clásicas,Mexico,10502,69.32,10.1
+254,PERIC,5,Pericles Comidas clásicas,Mexico,10474,83.49,10.1
+255,PERIC,7,Pericles Comidas clásicas,Mexico,10322,0.4,10.1
+256,PERIC,8,Pericles Comidas clásicas,Mexico,10354,53.8,10.1
+257,PICCO,2,Piccolo und mehr,Austria,10392,122.46,10.1
+258,PICCO,3,Piccolo und mehr,Austria,10530,339.22,10.1
+259,PICCO,4,Piccolo und mehr,Austria,10427,31.29,10.1
+260,PICCO,6,Piccolo und mehr,Austria,10489,5.29,10.1
+261,PICCO,7,Piccolo und mehr,Austria,10353,360.63,10.1
+262,PICCO,8,Piccolo und mehr,Austria,10844,25.22,10.1
+263,PRINI,3,Princesa Isabel Vinhos,Portugal,10433,73.83,10.1
+264,PRINI,5,Princesa Isabel Vinhos,Portugal,10397,60.26,10.1
+265,PRINI,7,Princesa Isabel Vinhos,Portugal,10336,15.51,10.1
+266,PRINI,8,Princesa Isabel Vinhos,Portugal,11007,202.24,10.1
+267,QUEDE,1,Que Delícia,Brazil,10587,62.52,10.1
+268,QUEDE,2,Que Delícia,Brazil,10379,45.03,10.1
+269,QUEDE,4,Que Delícia,Brazil,10261,3.05,10.1
+270,QUEDE,6,Que Delícia,Brazil,10291,6.4,10.1
+271,QUEDE,8,Que Delícia,Brazil,10421,99.23,10.1
+272,QUEEN,2,Queen Cozinha,Brazil,10487,71.07,10.1
+273,QUEEN,4,Queen Cozinha,Brazil,10728,58.33,10.1
+274,QUEEN,5,Queen Cozinha,Brazil,10372,890.78,10.1
+275,QUEEN,6,Queen Cozinha,Brazil,10637,201.29,10.1
+276,QUEEN,7,Queen Cozinha,Brazil,10406,108.04,10.1
+277,QUEEN,8,Queen Cozinha,Brazil,10786,110.87,10.1
+278,QUICK,1,QUICK-Stop,Germany,10285,76.83,10.1
+279,QUICK,2,QUICK-Stop,Germany,10313,1.96,10.1
+280,QUICK,3,QUICK-Stop,Germany,10273,76.07,10.1
+281,QUICK,4,QUICK-Stop,Germany,10418,17.55,10.1
+282,QUICK,5,QUICK-Stop,Germany,10549,171.24,10.1
+283,QUICK,7,QUICK-Stop,Germany,10527,41.9,10.1
+284,QUICK,8,QUICK-Stop,Germany,10286,229.24,10.1
+285,QUICK,9,QUICK-Stop,Germany,10745,3.52,10.1
+286,RANCH,1,Rancho grande,Argentina,10916,63.77,10.1
+287,RANCH,4,Rancho grande,Argentina,10448,38.82,10.1
+288,RANCH,6,Rancho grande,Argentina,11019,3.17,10.1
+289,RANCH,9,Rancho grande,Argentina,10828,90.85,10.1
+290,RATTC,1,Rattlesnake Canyon Grocery,USA,10314,74.16,10.1
+291,RATTC,2,Rattlesnake Canyon Grocery,USA,11000,55.12,10.1
+292,RATTC,3,Rattlesnake Canyon Grocery,USA,10346,142.08,10.1
+293,RATTC,4,Rattlesnake Canyon Grocery,USA,10294,147.26,10.1
+294,RATTC,5,Rattlesnake Canyon Grocery,USA,10569,58.98,10.1
+295,RATTC,6,Rattlesnake Canyon Grocery,USA,10272,98.03,10.1
+296,RATTC,8,Rattlesnake Canyon Grocery,USA,10262,48.29,10.1
+297,RATTC,9,Rattlesnake Canyon Grocery,USA,10889,280.61,10.1
+298,REGGC,1,Reggiani Caseifici,Italy,10562,22.95,10.1
+299,REGGC,2,Reggiani Caseifici,Italy,10727,89.9,10.1
+300,REGGC,4,Reggiani Caseifici,Italy,10288,7.45,10.1
+301,REGGC,5,Reggiani Caseifici,Italy,10812,59.78,10.1
+302,REGGC,7,Reggiani Caseifici,Italy,10428,11.09,10.1
+303,REGGC,8,Reggiani Caseifici,Italy,10443,13.95,10.1
+304,REGGC,9,Reggiani Caseifici,Italy,10586,0.48,10.1
+305,RICAR,1,Ricardo Adocicados,Brazil,10813,47.38,10.1
+306,RICAR,2,Ricardo Adocicados,Brazil,10563,60.43,10.1
+307,RICAR,4,Ricardo Adocicados,Brazil,10299,29.76,10.1
+308,RICAR,5,Ricardo Adocicados,Brazil,10648,14.25,10.1
+309,RICAR,8,Ricardo Adocicados,Brazil,10287,12.76,10.1
+310,RICSU,1,Richter Supermarkt,Switzerland,10537,78.85,10.1
+311,RICSU,3,Richter Supermarkt,Switzerland,10751,130.79,10.1
+312,RICSU,4,Richter Supermarkt,Switzerland,10419,137.35,10.1
+313,RICSU,7,Richter Supermarkt,Switzerland,10666,232.42,10.1
+314,RICSU,8,Richter Supermarkt,Switzerland,11075,6.19,10.1
+315,RICSU,9,Richter Supermarkt,Switzerland,10255,148.33,10.1
+316,ROMEY,1,Romero y tomillo,Spain,10306,7.56,10.1
+317,ROMEY,2,Romero y tomillo,Spain,11013,32.99,10.1
+318,ROMEY,4,Romero y tomillo,Spain,10281,2.94,10.1
+319,SANTG,1,Santé Gourmet,Norway,10387,93.63,10.1
+320,SANTG,2,Santé Gourmet,Norway,11015,4.62,10.1
+321,SANTG,3,Santé Gourmet,Norway,10831,72.19,10.1
+322,SANTG,7,Santé Gourmet,Norway,10520,13.37,10.1
+323,SAVEA,1,Save-a-lot Markets,USA,10393,126.56,10.1
+324,SAVEA,2,Save-a-lot Markets,USA,10398,89.16,10.1
+325,SAVEA,3,Save-a-lot Markets,USA,10700,65.1,10.1
+326,SAVEA,4,Save-a-lot Markets,USA,10440,86.53,10.1
+327,SAVEA,5,Save-a-lot Markets,USA,10607,200.24,10.1
+328,SAVEA,6,Save-a-lot Markets,USA,10510,367.63,10.1
+329,SAVEA,7,Save-a-lot Markets,USA,10678,388.98,10.1
+330,SAVEA,8,Save-a-lot Markets,USA,10452,140.26,10.1
+331,SAVEA,9,Save-a-lot Markets,USA,10324,214.27,10.1
+332,SIMOB,2,Simons bistro,Denmark,10556,9.8,10.1
+333,SIMOB,4,Simons bistro,Denmark,10417,70.29,10.1
+334,SIMOB,7,Simons bistro,Denmark,10341,26.78,10.1
+335,SPECD,2,Spécialités du monde,France,10738,2.91,10.1
+336,SPECD,3,Spécialités du monde,France,10964,87.38,10.1
+337,SPECD,5,Spécialités du monde,France,11043,8.8,10.1
+338,SPECD,6,Spécialités du monde,France,10907,9.19,10.1
+339,SPLIR,1,Split Rail Beer & Ale,USA,10385,30.96,10.1
+340,SPLIR,3,Split Rail Beer & Ale,USA,10432,4.34,10.1
+341,SPLIR,4,Split Rail Beer & Ale,USA,10329,191.67,10.1
+342,SPLIR,6,Split Rail Beer & Ale,USA,10271,4.54,10.1
+343,SPLIR,7,Split Rail Beer & Ale,USA,10349,8.63,10.1
+344,SPLIR,8,Split Rail Beer & Ale,USA,10369,195.68,10.1
+345,SUPRD,1,Suprêmes délices,Belgium,11038,29.59,10.1
+346,SUPRD,2,Suprêmes délices,Belgium,10846,56.46,10.1
+347,SUPRD,4,Suprêmes délices,Belgium,10252,51.3,10.1
+348,SUPRD,5,Suprêmes délices,Belgium,10463,14.78,10.1
+349,SUPRD,6,Suprêmes délices,Belgium,10885,5.64,10.1
+350,SUPRD,7,Suprêmes délices,Belgium,10458,147.06,10.1
+351,SUPRD,9,Suprêmes délices,Belgium,10475,68.52,10.1
+352,THEBI,1,The Big Cheese,USA,10992,4.27,10.1
+353,THEBI,2,The Big Cheese,USA,10805,237.34,10.1
+354,THEBI,6,The Big Cheese,USA,10708,2.96,10.1
+355,THEBI,8,The Big Cheese,USA,10310,17.52,10.1
+356,THECR,3,The Cracker Box,USA,11003,14.91,10.1
+357,THECR,4,The Cracker Box,USA,10624,94.8,10.1
+358,THECR,7,The Cracker Box,USA,10775,20.25,10.1
+359,TOMSP,2,Toms Spezialitäten,Germany,10967,62.22,10.1
+360,TOMSP,3,Toms Spezialitäten,Germany,10438,8.24,10.1
+361,TOMSP,4,Toms Spezialitäten,Germany,10608,27.79,10.1
+362,TOMSP,6,Toms Spezialitäten,Germany,10249,11.61,10.1
+363,TORTU,1,Tortuga Restaurante,Mexico,10293,21.18,10.1
+364,TORTU,2,Tortuga Restaurante,Mexico,10676,2.01,10.1
+365,TORTU,3,Tortuga Restaurante,Mexico,10576,18.56,10.1
+366,TORTU,4,Tortuga Restaurante,Mexico,10518,218.15,10.1
+367,TORTU,7,Tortuga Restaurante,Mexico,10319,64.5,10.1
+368,TORTU,8,Tortuga Restaurante,Mexico,10276,13.84,10.1
+369,TRADH,1,Tradição Hipermercados,Brazil,10292,1.35,10.1
+370,TRADH,3,Tradição Hipermercados,Brazil,10839,35.43,10.1
+371,TRADH,4,Tradição Hipermercados,Brazil,10606,79.4,10.1
+372,TRADH,7,Tradição Hipermercados,Brazil,10496,46.77,10.1
+373,TRAIH,4,Trail's Head Gourmet Provisioners,USA,10574,37.6,10.1
+374,TRAIH,6,Trail's Head Gourmet Provisioners,USA,10822,7.0,10.1
+375,TRAIH,9,Trail's Head Gourmet Provisioners,USA,10577,25.41,10.1
+376,VAFFE,1,Vaffeljernet,Denmark,10465,145.04,10.1
+377,VAFFE,2,Vaffeljernet,Denmark,10994,65.53,10.1
+378,VAFFE,3,Vaffeljernet,Denmark,10769,65.06,10.1
+379,VAFFE,4,Vaffeljernet,Denmark,10688,299.09,10.1
+380,VAFFE,6,Vaffeljernet,Denmark,10744,69.19,10.1
+381,VAFFE,7,Vaffeljernet,Denmark,10367,13.55,10.1
+382,VAFFE,8,Vaffeljernet,Denmark,10399,27.36,10.1
+383,VICTE,1,Victuailles en stock,France,10546,194.72,10.1
+384,VICTE,2,Victuailles en stock,France,10478,4.81,10.1
+385,VICTE,3,Victuailles en stock,France,10251,41.34,10.1
+386,VICTE,4,Victuailles en stock,France,10459,25.09,10.1
+387,VICTE,8,Victuailles en stock,France,10334,8.56,10.1
+388,VINET,2,Vins et alcools Chevalier,France,10295,1.15,10.1
+389,VINET,3,Vins et alcools Chevalier,France,10739,11.08,10.1
+390,VINET,5,Vins et alcools Chevalier,France,10248,32.38,10.1
+391,VINET,6,Vins et alcools Chevalier,France,10274,6.01,10.1
+392,WANDK,1,Die Wandernde Kuh,Germany,10668,47.22,10.1
+393,WANDK,2,Die Wandernde Kuh,Germany,10312,40.26,10.1
+394,WANDK,4,Die Wandernde Kuh,Germany,10348,0.78,10.1
+395,WANDK,6,Die Wandernde Kuh,Germany,10356,36.71,10.1
+396,WANDK,7,Die Wandernde Kuh,Germany,10513,105.65,10.1
+397,WANDK,8,Die Wandernde Kuh,Germany,10301,45.08,10.1
+398,WARTH,1,Wartian Herkku,Finland,10270,136.54,10.1
+399,WARTH,2,Wartian Herkku,Finland,10553,149.49,10.1
+400,WARTH,3,Wartian Herkku,Finland,10266,25.73,10.1
+401,WARTH,4,Wartian Herkku,Finland,10526,58.59,10.1
+402,WARTH,5,Wartian Herkku,Finland,10320,34.57,10.1
+403,WARTH,6,Wartian Herkku,Finland,11025,29.17,10.1
+404,WARTH,8,Wartian Herkku,Finland,10412,3.77,10.1
+405,WARTH,9,Wartian Herkku,Finland,10750,79.3,10.1
+406,WELLI,1,Wellington Importadora,Brazil,10900,1.66,10.1
+407,WELLI,3,Wellington Importadora,Brazil,10256,13.97,10.1
+408,WELLI,4,Wellington Importadora,Brazil,10803,55.23,10.1
+409,WELLI,7,Wellington Importadora,Brazil,10585,13.41,10.1
+410,WELLI,9,Wellington Importadora,Brazil,10905,13.72,10.1
+411,WHITC,1,White Clover Markets,USA,10469,60.18,10.1
+412,WHITC,2,White Clover Markets,USA,11032,606.19,10.1
+413,WHITC,3,White Clover Markets,USA,10693,139.34,10.1
+414,WHITC,4,White Clover Markets,USA,10344,23.29,10.1
+415,WHITC,5,White Clover Markets,USA,10269,4.56,10.1
+416,WHITC,7,White Clover Markets,USA,10483,15.28,10.1
+417,WHITC,8,White Clover Markets,USA,10596,16.34,10.1
+418,WILMK,1,Wilman Kala,Finland,10910,38.11,10.1
+419,WILMK,2,Wilman Kala,Finland,10615,0.75,10.1
+420,WILMK,3,Wilman Kala,Finland,10879,8.5,10.1
+421,WILMK,4,Wilman Kala,Finland,10873,0.82,10.1
+422,WILMK,7,Wilman Kala,Finland,10695,16.72,10.1
+423,WOLZA,1,Wolski Zajazd,Poland,10374,3.94,10.1
+424,WOLZA,4,Wolski Zajazd,Poland,10906,26.29,10.1
+425,WOLZA,5,Wolski Zajazd,Poland,10870,12.04,10.1
+426,WOLZA,6,Wolski Zajazd,Poland,10611,80.65,10.1
+427,WOLZA,8,Wolski Zajazd,Poland,10998,20.31,10.1
