@@ -1,0 +1,25 @@
+digraph Tree {
+node [shape=box, fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Protein4 <= -0.82\nentropy = 0.662\nsamples = 221\nvalue = [183, 38]\nclass = Alive"] ;
+1 [label="entropy = 0.0\nsamples = 20\nvalue = [20, 0]\nclass = Alive"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Protein1 <= 0.739\nentropy = 0.699\nsamples = 201\nvalue = [163, 38]\nclass = Alive"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="Protein4 <= -0.702\nentropy = 0.728\nsamples = 187\nvalue = [149, 38]\nclass = Alive"] ;
+2 -> 3 ;
+4 [label="Tumour_Stage <= 0.5\nentropy = 0.971\nsamples = 5\nvalue = [2, 3]\nclass = Dead"] ;
+3 -> 4 ;
+5 [label="entropy = 0.0\nsamples = 3\nvalue = [0, 3]\nclass = Dead"] ;
+4 -> 5 ;
+6 [label="entropy = 0.0\nsamples = 2\nvalue = [2, 0]\nclass = Alive"] ;
+4 -> 6 ;
+7 [label="Protein2 <= -0.582\nentropy = 0.706\nsamples = 182\nvalue = [147, 35]\nclass = Alive"] ;
+3 -> 7 ;
+8 [label="entropy = 0.0\nsamples = 15\nvalue = [15, 0]\nclass = Alive"] ;
+7 -> 8 ;
+9 [label="entropy = 0.741\nsamples = 167\nvalue = [132, 35]\nclass = Alive"] ;
+7 -> 9 ;
+10 [label="entropy = 0.0\nsamples = 14\nvalue = [14, 0]\nclass = Alive"] ;
+2 -> 10 ;
+}
